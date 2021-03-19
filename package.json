@@ -1,0 +1,23 @@
+{
+  "name": "search-github-profiles-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleg-kucherenko/search-github-profiles-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleg-kucherenko/search-github-profiles-deploy/issues"
+  },
+  "homepage": "https://github.com/oleg-kucherenko/search-github-profiles-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
